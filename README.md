@@ -1,8 +1,13 @@
 # Hi 👋 I'm Thien Bao
 
-💻 Software Engineering  
-🚀 Interested in FullStack / AI 
-📍 Vietnam
+Software Engineering  
+
+I am a **Software Engineering student** passionate about **Full Stack Web Development**.
+
+I enjoy building web applications, working with both **frontend and backend technologies**, and learning how scalable systems are designed. I continuously improve my skills through personal projects and collaboration.
+
+My goal is to gain real-world experience and grow into a professional **Full Stack Developer**.
+
 
 ---
 
