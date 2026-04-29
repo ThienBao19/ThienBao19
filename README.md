@@ -16,6 +16,16 @@ My goal is to gain real-world experience and grow into a professional **Full Sta
 
 ---
 
+## 🏆 Achievements
+
+## My Google Cloud Badges
+
+| Badge | Link |
+|------|------|
+| ![](https://cdn.qwiklabs.com/jgo1MQhfxZWim05TCq3OY2knh9xhpLjnES%2B1IZhub%2F0%3D) | [View Badge]([https://www.cloudskillsboost.google/public_profiles/.../badges/1](https://www.skills.google/public_profiles/abe8275c-027a-404f-bbbd-4c400ce0972c/badges/23871430)) |
+
+---
+
 ## 📊 GitHub Stats
 
 ![Bao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThienBao19&show_icons=true&theme=tokyonight)
