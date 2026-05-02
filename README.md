@@ -4,9 +4,11 @@
 💻 Software Engineering  |  Web Developer
 </h3>
 
-I enjoy building web applications, working with both **frontend and backend technologies**, and learning how scalable systems are designed. I continuously improve my skills through personal projects and collaboration.
+<h3 align="center">
+Don’t wait — there’s no miracle coming. Just keep going
+</h3>
 
-My goal is to gain real-world experience and grow into a professional **Full Stack Developer**.
+I am a Software Engineering enthusiast with experience in both frontend and backend development. I am interested in the following topics: Web Development, Scalable System Design, and Cloud Computing.
 
 ---
 
